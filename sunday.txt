@@ -1,2 +1,4 @@
+This is Sunday calss file
+
 #Welcome to sunday class.
 This is the first lab class n sunday. 

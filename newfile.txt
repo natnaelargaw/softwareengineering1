@@ -1,1 +1,1 @@
-newfile
+this new contnet has been changed due to conflict
